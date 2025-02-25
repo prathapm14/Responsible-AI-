@@ -1,6 +1,3 @@
-# Responsible-AI-
-Absolutely! Let's dive into the world of Responsible AI and Trustworthy AI in Azure AI Foundry. I'll provide a comprehensive overview, including code snippets and detailed steps to get you started.
-
 ### Responsible AI in Azure AI Foundry
 
 Responsible AI is about ensuring that AI systems are designed and deployed in a manner that is ethical, transparent, and accountable. Microsoft has established a governance framework rooted in AI principles to guide the development and deployment of AI systems. This framework is organized into four stages: Map, Measure, Mitigate, and Operate.
